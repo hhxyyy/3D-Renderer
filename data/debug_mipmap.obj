@@ -1,0 +1,16 @@
+# Blender v3.3.1 OBJ File: ''
+# www.blender.org
+mtllib debug_mipmap.mtl
+o Cube
+v 10.000000 -0.500000 -10.000000
+v -10.000000 -0.500000 -10.000000
+v -10.000000 -0.500000 10.000000
+v 10.000000 -0.500000 10.000000
+vt 0 10
+vt 0 0
+vt 10 0
+vt 10 10
+usemtl default
+s off
+f 1/1 2/2 3/3
+f 3/3 4/4 1/1
